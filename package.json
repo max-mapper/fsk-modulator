@@ -1,5 +1,5 @@
 {
-  "name": "fsk",
+  "name": "fsk-modulator",
   "version": "1.0.0",
   "description": "code borrowed from http://gyu.que.jp/private/jsfsk/",
   "main": "index.js",
