@@ -1,0 +1,14 @@
+{
+  "name": "fsk",
+  "version": "1.0.0",
+  "description": "code borrowed from http://gyu.que.jp/private/jsfsk/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "fsk modulator"
+  }
+}

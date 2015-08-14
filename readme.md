@@ -1,0 +1,1 @@
+code borrowed from http://gyu.que.jp/private/jsfsk/
